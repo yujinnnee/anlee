@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <header className="header">
       <div className="container">
-        <h1 className="logo">발진영</h1>
+        <h1 className="logo">1000밍기</h1>
         <nav className="nav">
           <a href="#about">소개</a>
           <a href="#services">기술</a>
