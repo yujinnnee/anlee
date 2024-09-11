@@ -1,0 +1,23 @@
+:root {
+  --main-bg-color: #ffffff;
+  --main-text-color: #000000;
+}
+
+.about {
+  background-color: var(--main-bg-color);
+  color: var(--main-text-color);
+  padding: 60px 0;
+  text-align: center;
+}
+
+.about h2 {
+  color: var(--main-text-color);
+  font-size: 2em;
+}
+
+.about p {
+  color: var(--main-text-color);
+  font-size: 1.2em;
+  margin: 20px auto;
+  width: 80%;
+}
